@@ -1,0 +1,56 @@
+==================================================
+LangGraph Simple Agent with Llama and Qwen
+==================================================
+
+Using MPS (Apple Silicon) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+This may take a moment on first run as the model is downloaded...
+Model loaded successfully!
+Using MPS (Apple Silicon) for inference
+Loading model: Qwen/Qwen2.5-0.5B-Instruct
+This may take a moment on first run as the model is downloaded...
+Model loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+
+Saving graph visualization...
+Graph image saved to lg_graph.png
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> 
+Processing your input...
+
+Processing your input...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+User: Which large language model is the best in the world?
+Assistant: It's difficult to say which large language model is the "best" in the world, as there are many models with different strengths and weaknesses. However, I can give you an overview of some of the most popular large language models and their characteristics.
+
+There are several large language models, including:
+
+1. **BERT (Bidirectional Encoder Representations from Transformers)**: Developed by Google, BERT is a transformer-based model that has achieved state-of-the-art results in many NLP tasks. It's particularly good at understanding context and nuances in language.
+2. **RoBERTa (Robustly Optimized BERT Pretraining Approach)**: Also developed by Google, RoBERTa is a variant of BERT that is designed to be more robust and accurate. It has been shown to perform better than BERT on some tasks.
+3. **DistilBERT**: Developed by Google, DistilBERT is a smaller version of BERT that is designed to be faster and more energy-efficient. It's also been shown to perform well on many tasks.
+4. **T5 (Text Generation Model)**: Developed by Google, T5 is a transformer-based model that is designed for text generation tasks. It's particularly good at generating human-like text.
+5. **Longformer
+
+--------------------------------------------------
+Qwen Response:
+--------------------------------------------------
+User: Which large language model is the best in the world?
+Assistant: As an AI language model, there are many different large language models available. It really depends on your specific needs and what kind of use case you're looking for.
+If you're interested in using a language model to generate text that's similar to human-written text, then a language model like GPT-3 from Anthropic or BERT from Google could be very helpful. These models can generate natural-sounding text with varying degrees of human-like sentiment.
+However, if you're looking for something more specialized or for writing code, then it might be more appropriate to use a programming language like Python or R. There are also other large language models available such as Qwen from Alibaba and QuoraAI from Stanford.
+Ultimately, which language model is "the best" will depend on your individual needs and goals. Some people prefer more advanced language models, while others may need simpler ones to write code quickly. The key is finding the right tool for the job.
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Goodbye!

@@ -1,0 +1,35 @@
+============================================================
+TEST 1: Query requiring calculator
+============================================================
+User: What's the result of sin(pi/4) * 2
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Args: {'expression': 'sin(pi/4) * 2'}
+  Result: 1.414214
+
+--- Iteration 2 ---
+Assistant: The result of \( \sin(\frac{\pi}{4}) \times 2 \) is approximately 1.414214.
+
+
+============================================================
+TEST 2: Multiple tool calls
+============================================================
+User: What's the degree in New York minus 10?
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: get_weather
+  Args: {'location': 'New York'}
+  Result: Cloudy, 55°F
+
+--- Iteration 2 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Args: {'expression': '55 - 10'}
+  Result: 45.000000
+
+--- Iteration 3 ---
+Assistant: The temperature in New York is 55°F. If you subtract 10 from that, the result is 45°F.
+

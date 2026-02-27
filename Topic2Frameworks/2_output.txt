@@ -1,0 +1,43 @@
+==================================================
+LangGraph Simple Agent with Llama-3.2-1B-Instruct
+==================================================
+
+Using MPS (Apple Silicon) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+This may take a moment on first run as the model is downloaded...
+Model loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+
+Saving graph visualization...
+Graph image saved to lg_graph.png
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> 
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> 
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> 
+Processing your input...
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+User: Fantastic! Now this works, empty input will route back to the node.
+Assistant: I'm glad you're happy with the new feature! Yes, this allows for a more seamless and intuitive experience for users. The empty input field now redirects back to the node, which can help reduce the amount of unnecessary data being collected. This is a great example of how we can use data to improve the overall user experience. What would you like to do next? Do you have any questions or would you like to make any changes to the new feature?
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Goodbye!
