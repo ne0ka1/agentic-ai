@@ -1,0 +1,24 @@
+Conversation history is enabled.
+Loading model (this takes 1-2 minutes)...
+✓ Model loaded! Using device: mps:0
+✓ Memory usage: ~2.5 GB (FP16)
+
+======================================================================
+Chat started! Type 'quit' or 'exit' to end the conversation.
+======================================================================
+
+You: Hi! I am a studnet of of UVA.
+Assistant: That's great to hear you're a UVA student! What can I help you with today? Are you looking for course information, need assistance with a project, or just want to chat about your time at UVA?
+
+You: Where do I live?
+Assistant: As a University of Virginia student, you likely live on campus. The university has a beautiful campus in Charlottesville, Virginia, and many students choose to stay on campus for convenience and to be a part of the UVA community.
+
+You: I'm travelling to a neaby city, where is that?
+Assistant: You're likely headed to Richmond, Virginia. Richmond is a vibrant city just a short drive or train ride from Charlottesville, where you're based. It's a great place to explore, with its rich history, cultural attractions, and a thriving food scene.
+
+You: I'm actually travelling to Washington D.C.
+Assistant: Washington D.C. is a fantastic city to explore, with its rich history, iconic landmarks, and cultural attractions. As a UVA student, you might be interested in visiting the nation's capital to take advantage of the many educational resources and internship opportunities available.
+
+You: exit
+
+Goodbye!

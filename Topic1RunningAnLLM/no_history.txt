@@ -1,0 +1,23 @@
+Conversation history is disabled.
+Loading model (this takes 1-2 minutes)...
+✓ Model loaded! Using device: mps:0
+✓ Memory usage: ~2.5 GB (FP16)
+======================================================================
+Chat started! Type 'quit' or 'exit' to end the conversation.
+======================================================================
+
+You: Hi
+Assistant: How can I help you today?
+
+You: I'm a student of UVA.
+Assistant: How's life in Charlottesville treating you? Are you a part of the UVA community?
+
+You: Where do I live right now?
+Assistant: I don't have access to your location. Is there something else I can help you with?
+
+You: I'm travelling to a nearby city, where is that?
+Assistant: I'm happy to help you with directions. However, I don't have any information about your current location. Could you please tell me where you are located, so I can give you more accurate directions to the nearby city?
+
+You: exit
+
+Goodbye!
