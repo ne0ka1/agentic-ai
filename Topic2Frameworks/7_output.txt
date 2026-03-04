@@ -1,0 +1,148 @@
+Script started on Wed Mar  4 13:32:22 2026
+[1m[7m%[27m[1m[0m                                                                                                                                            [0m[27m[24m[J[38;5;202mk[39m[38;5;208ma[39m[38;5;214mi[39m[38;5;216m@[39m[38;5;214mm[38;5;208ma[39m[38;5;202mc [39m[38;5;208mTopic2Frameworks[39m [38;5;214m%[39m [K[?2004h[1m[31mp[0m[39m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31mh[0m[39m[1m[31mh[1m[31mo[0m[39m[1m[31mo[1m[31mn[0m[39m[0m[32mp[0m[32my[0m[32mt[0m[32mh[0m[32mo[0m[32mn[32m3[39m [4m7[24m[4m7[4m_langgraph_simple_llama_agent.py[24m[1m [0m[0m [?2004l
+==================================================
+Multi-Agent LangGraph (Llama & Qwen) — with checkpointing
+==================================================
+
+[Checkpoint] Using SQLite: /Users/kai/agentic-ai/Topic2Frameworks/checkpoints.sqlite (state survives process restart)
+Using MPS (Apple Silicon) for inference
+Loading meta-llama/Llama-3.2-1B-Instruct...
+Device set to use mps:0
+Loading Qwen/Qwen2.5-1.5B-Instruct...
+Device set to use mps:0
+Both models loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> Hi what [K[K[K[Kwhat do you recommend in starbucks?
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+Icicle: I'd recommend the Caramel Macchiato.
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> Okay, I'm ordering.
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+Caramel Macchiato, Icicle: That's a classic. Would you like whole milk, 2% milk, or a non-dairy milk alternative?
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> Traceback (most recent call last):
+  File [35m"/Users/kai/agentic-ai/Topic2Frameworks/7_langgraph_simple_llama_agent.py"[0m, line [35m278[0m, in [35m<module>[0m
+    [31mmain[0m[1;31m()[0m
+    [31m~~~~[0m[1;31m^^[0m
+  File [35m"/Users/kai/agentic-ai/Topic2Frameworks/7_langgraph_simple_llama_agent.py"[0m, line [35m275[0m, in [35mmain[0m
+    [31mgraph.invoke[0m[1;31m(initial_state, config)[0m
+    [31m~~~~~~~~~~~~[0m[1;31m^^^^^^^^^^^^^^^^^^^^^^^[0m
+  File [35m"/opt/homebrew/lib/python3.13/site-packages/langgraph/pregel/main.py"[0m, line [35m3071[0m, in [35minvoke[0m
+    for chunk in [31mself.stream[0m[1;31m([0m
+                 [31m~~~~~~~~~~~[0m[1;31m^[0m
+        [1;31minput,[0m
+        [1;31m^^^^^^[0m
+    ...<10 lines>...
+        [1;31m**kwargs,[0m
+        [1;31m^^^^^^^^^[0m
+    [1;31m)[0m:
+    [1;31m^[0m
+  File [35m"/opt/homebrew/lib/python3.13/site-packages/langgraph/pregel/main.py"[0m, line [35m2646[0m, in [35mstream[0m
+    for _ in [31mrunner.tick[0m[1;31m([0m
+             [31m~~~~~~~~~~~[0m[1;31m^[0m
+        [1;31m[t for t in loop.tasks.values() if not t.writes],[0m
+        [1;31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+    ...<2 lines>...
+        [1;31mschedule_task=loop.accept_push,[0m
+        [1;31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+    [1;31m)[0m:
+    [1;31m^[0m
+  File [35m"/opt/homebrew/lib/python3.13/site-packages/langgraph/pregel/_runner.py"[0m, line [35m167[0m, in [35mtick[0m
+    [31mrun_with_retry[0m[1;31m([0m
+    [31m~~~~~~~~~~~~~~[0m[1;31m^[0m
+        [1;31mt,[0m
+        [1;31m^^[0m
+    ...<10 lines>...
+        [1;31m},[0m
+        [1;31m^^[0m
+    [1;31m)[0m
+    [1;31m^[0m
+  File [35m"/opt/homebrew/lib/python3.13/site-packages/langgraph/pregel/_retry.py"[0m, line [35m42[0m, in [35mrun_with_retry[0m
+    return [31mtask.proc.invoke[0m[1;31m(task.input, config)[0m
+           [31m~~~~~~~~~~~~~~~~[0m[1;31m^^^^^^^^^^^^^^^^^^^^[0m
+  File [35m"/opt/homebrew/lib/python3.13/site-packages/langgraph/_internal/_runnable.py"[0m, line [35m656[0m, in [35minvoke[0m
+    input = context.run(step.invoke, input, config, **kwargs)
+  File [35m"/opt/homebrew/lib/python3.13/site-packages/langgraph/_internal/_runnable.py"[0m, line [35m400[0m, in [35minvoke[0m
+    ret = self.func(*args, **kwargs)
+  File [35m"/Users/kai/agentic-ai/Topic2Frameworks/7_langgraph_simple_llama_agent.py"[0m, line [35m100[0m, in [35mget_user_input[0m
+    user_input = input()
+[1;35mKeyboardInterrupt[0m
+
+[1m[7m%[27m[1m[0m                                                                                                                                            [0m[27m[24m[J[38;5;202mk[39m[38;5;208ma[39m[38;5;214mi[39m[38;5;216m@[39m[38;5;214mm[38;5;208ma[39m[38;5;202mc [39m[38;5;208mTopic2Frameworks[39m [38;5;214m%[39m [K[?2004h[32mpython3[39m [4m7_langgraph_simple_llama_agent.py[24m[?2004l
+==================================================
+Multi-Agent LangGraph (Llama & Qwen) — with checkpointing
+==================================================
+
+[Checkpoint] Using SQLite: /Users/kai/agentic-ai/Topic2Frameworks/checkpoints.sqlite (state survives process restart)
+Using MPS (Apple Silicon) for inference
+Loading meta-llama/Llama-3.2-1B-Instruct...
+Device set to use mps:0
+Loading Qwen/Qwen2.5-1.5B-Instruct...
+Device set to use mps:0
+Both models loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+[Resuming from last checkpoint — nothing lost from previous run.]
+
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> What was I doing?
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+Breezy: Just ordering at Starbucks.
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> Correct!
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+Icicle: Our Iced Caramel Macchiato is made with espresso, vanilla syrup, and steamed milk. Would you like whipped cream on top?
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> exit
+Goodbye!
+[1m[7m%[27m[1m[0m                                                                                                                                            [0m[27m[24m[J[38;5;202mk[39m[38;5;208ma[39m[38;5;214mi[39m[38;5;216m@[39m[38;5;214mm[38;5;208ma[39m[38;5;202mc [39m[38;5;208mTopic2Frameworks[39m [38;5;214m%[39m [K[?2004h[1m[31me[0m[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?2004l
+
+Script done on Wed Mar  4 13:33:37 2026

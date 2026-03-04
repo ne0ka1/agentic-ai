@@ -1,0 +1,56 @@
+==================================================
+LangGraph Simple Agent with Llama and Qwen
+==================================================
+
+Using MPS (Apple Silicon) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use mps:0
+Model loaded successfully!
+Using MPS (Apple Silicon) for inference
+Loading model: Qwen/Qwen2.5-1.5B-Instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use mps:0
+Model loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+
+Saving graph visualization...
+Graph image saved to lg_graph.png
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Hey qwen, do you know about U street in Washington D.C.?
+
+Processing your input...
+
+--------------------------------------------------
+Qwen Response:
+--------------------------------------------------
+User: Hey qwen, do you know about U street in Washington D.C.?
+Assistant: Yes, I am familiar with U Street in Washington D.C. It is a bustling commercial corridor that runs from the National Mall to the Anacostia River. The area is known for its diverse cultural offerings and vibrant nightlife. Many businesses along this street specialize in African American culture, cuisine, and music. Additionally, it has been an important center of commerce and entertainment in Washington D.C., hosting various events throughout the year such as concerts, film festivals, and community gatherings.
+
+U Street is also associated with the concept of "foodie" tourism, as many restaurants serve dishes inspired by Southern African-American culinary traditions. The area's proximity to major tourist attractions like the National Mall makes it an attractive destination for visitors exploring both cultural heritage and modern amenities.
+
+While the neighborhood continues to evolve, U Street remains a significant part of D.C.'s cultural landscape and economic base.
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Do you know about U street in Washington D.C.?
+
+Processing your input...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+User: Do you know about U street in Washington D.C.?
+Assistant: I'm familiar with U Street. It's a historic and vibrant neighborhood in Northwest Washington, D.C. known for its rich cultural heritage, entertainment options, and nightlife. U Street is a popular destination for both locals and tourists, offering a unique blend of artistic expression, music venues, and independent businesses. The area is also home to several historic homes and landmarks, making it a fascinating spot for exploration and discovery. Are you from the D.C. area, or are you looking to visit U Street for the first time?
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================

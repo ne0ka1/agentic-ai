@@ -1,0 +1,89 @@
+Script started on Tue Mar  3 18:42:12 2026
+==================================================
+LangGraph Agent with Memory (Llama-3.2-1B-Instruct)
+==================================================
+
+Using MPS (Apple Silicon) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+Device set to use mps:0
+Model loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+
+Saving graph visualization...
+Graph image saved to lg_graph.png
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> I'd like to go to Library of Congress tomorrow.
+
+Processing your input...
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+You're looking to visit the Library of Congress in Washington, D.C. The Library of Congress is a world-renowned research library and museum that houses more than 170 million items, including books, manuscripts, photographs, maps, and other materials. It's a must-visit destination for anyone interested in history, literature, music, art, and more.
+
+To plan your visit, I can suggest a few options:
+
+1. Check the library's website for opening hours, admission prices, and special exhibitions.
+2. Consider purchasing a day pass or guided tour to get a deeper understanding of the library's collections and facilities.
+3. Look into the various research centers and programs offered by the library, such as the American Folklife Center, the National Jukebox, or the Schomburg Center for Research in Black Culture.
+4. If you're interested in specific collections, you can check the library's online catalog to see what's available and plan your visit accordingly.
+
+What specifically would you like to know or do while you're at the Library of Congress?
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> I'll just study there.
+
+Processing your input...
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+The Library of Congress is a fantastic place for studying and researching. The library has a vast collection of books, manuscripts, and other materials that cover a wide range of topics. You can spend hours browsing through the shelves, finding books that interest you, and taking notes or conducting research.
+
+The library also offers various resources and services to support your research, such as:
+
+* The Reference Desk, where librarians can assist with research and provide guidance on finding specific materials.
+* The Online Public Access (OPAC) system, which allows you to search and access library materials remotely.
+* The Digital Collections, which include digitized versions of historical documents, photographs, and other materials.
+* The Research Assistance Program, which offers one-on-one research support with a librarian.
+
+Additionally, the library also offers various study spaces, including the reading room, study areas, and computer labs, where you can work on your research projects.
+
+What subject or topic are you researching? I can help you find relevant materials and resources within the library's collections.
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> I mean the building is gorgegous, isnt' it.
+
+Processing your input...
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+The Library of Congress building is indeed stunning! It's a masterpiece of neoclassical architecture, with a grand entrance, sweeping staircases, and a beautiful central rotunda. The building is designed to resemble a classical Greek temple, with columns, arches, and a domed ceiling.
+
+The exterior of the building is particularly impressive, with its white marble façade, limestone columns, and ornate details. The Rotunda, a large central dome, is a highlight of the building, offering breathtaking views of the National Mall and the city of Washington, D.C.
+
+Inside, the building is equally impressive, with a grand staircase, intricate moldings, and beautifully crafted wooden paneling. The reading room is a particular highlight, with its high ceilings, large windows, and comfortable seating areas.
+
+The Library of Congress is also home to many notable artworks, including paintings by artists such as John Singleton Copley, John Vanderbank, and John Trumbull. You can also see the famous "Aristotle on the Emotions" statue, a marble sculpture by Italian artist Gian Lorenzo Bernini.
+
+If you have time, I recommend taking a guided tour of the building to get a deeper understanding of its history, architecture, and significance. The tours are available in multiple
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> quit
+Goodbye!

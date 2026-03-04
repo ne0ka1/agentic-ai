@@ -1,0 +1,128 @@
+==================================================
+Multi-Agent LangGraph (Llama & Qwen)
+==================================================
+
+Using MPS (Apple Silicon) for inference
+Loading meta-llama/Llama-3.2-1B-Instruct...
+Device set to use mps:0
+Loading Qwen/Qwen2.5-1.5B-Instruct...
+Device set to use mps:0
+Both models loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> What do you order in McDonald?
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+I order a Big Mac.
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> Hey Qwen, what do you think?
+
+[System] Switched active model to: Qwen
+
+Processing your input with Qwen...
+
+--------------------------------------------------
+Qwen Response:
+--------------------------------------------------
+I don't have preferences or orders like humans do, but thank you for asking! How can I assist you today?
+
+==================================================
+Active: Qwen | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> You don't order in McDonald?
+
+Processing your input with Qwen...
+
+--------------------------------------------------
+Qwen Response:
+--------------------------------------------------
+As an artificial intelligence language model, I don't consume food nor make purchases. My function is to respond to inquiries and provide information based on my training data. If you have any questions about food, restaurants, or anything else, feel free to ask!
+
+==================================================
+Active: Qwen | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> Hey Llama, you are closer to human beings than Qwen.
+
+[System] Switched active model to: Llama
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+I process and generate human-like text based on my training data and algorithms.
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> I mean, you order things in McDonald, while Qwen doesn't
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+I order food, but Qwen is a separate entity that doesn't have the ability to consume or interact with food.
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> Why is that? Why do you order food but Qwen doesn't?
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+I was created to process and understand human language, whereas Qwen is a separate AI system that is designed to handle specific tasks such as answering questions and providing information, and does not have the capability to consume or interact with the physical world.
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> You are avoiding my question.
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+Qwen is a separate AI assistant designed to assist with tasks, while I am a general-purpose conversational AI that can perform a wide range of tasks, including ordering food.
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> That's my boy!
+
+Processing your input with Llama...
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+Qwen is designed to handle tasks such as answering questions, providing information, and completing tasks, whereas I am focused on conversation and dialogue.
+
+==================================================
+Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
+==================================================
+
+> exit
+Goodbye!

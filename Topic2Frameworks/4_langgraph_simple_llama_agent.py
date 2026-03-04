@@ -191,14 +191,7 @@ def create_graph(llama, qwen):
         }
 
     # =========================================================================
-    # NODE 2: fan_out
-    # =========================================================================
-    # This node does nothing except pass state through
-    def fan_out(state: AgentState) -> dict:
-        return {}
-
-    # =========================================================================
-    # NODE 3: call_llama
+    # NODE 2: call_llama
     # =========================================================================
     # This node takes the user input from state, sends it to the LLM,
     # and stores the response back in state.
@@ -225,11 +218,14 @@ def create_graph(llama, qwen):
         # Invoke the LLM and get the response
         response = llama.invoke(prompt)
 
-        # Return only the field we're updating
-        return {"llama_response": response}
+        # Return updated fields: set Qwen response to empty to avoid stale data
+        return {
+            "llama_response": response,
+            "qwen_response": ""
+        }
 
     # =========================================================================
-    # NODE 4: call_qwen
+    # NODE 3: call_qwen
     # =========================================================================
     # This node takes the user input from state, sends it to the LLM,
     # and stores the response back in state.
@@ -256,11 +252,14 @@ def create_graph(llama, qwen):
         # Invoke the LLM and get the response
         response = qwen.invoke(prompt)
 
-        # Return only the field we're updating
-        return {"qwen_response": response}
+        # Return updated fields: set Llama response to empty to avoid stale data
+        return {
+            "qwen_response": response,
+            "llama_response": ""
+        }
 
     # =========================================================================
-    # NODE 5: print_response
+    # NODE 4: print_response
     # =========================================================================
     # This node reads the LLM response from state and prints it to stdout.
     # State changes:
@@ -275,13 +274,16 @@ def create_graph(llama, qwen):
             - Nothing (returns empty dict, state unchanged)
         """
         vprint(state, "\n" + "-" * 50)
-        vprint(state, "Llama Response:")
-        vprint(state, "-" * 50)
-        vprint(state, state["llama_response"])
-        vprint(state, "\n" + "-" * 50)
-        vprint(state, "Qwen Response:")
-        vprint(state, "-" * 50)
-        vprint(state, state["qwen_response"])
+        if state.get("llama_response"):
+            vprint(state, "Llama Response:")
+            vprint(state, "-" * 50)
+            vprint(state, state["llama_response"])
+        elif state.get("qwen_response"):
+            vprint(state, "Qwen Response:")
+            vprint(state, "-" * 50)
+            vprint(state, state["qwen_response"])
+        else:
+            vprint(state, "No response available.")
 
         # Return empty dict - no state updates from this node
         return {}
@@ -293,7 +295,7 @@ def create_graph(llama, qwen):
     # It's used for conditional edges after get_user_input.
     # Two possible routes:
     #   1. User wants to quit -> END
-    #   2. User entered non-empty input -> proceed to call_llm
+    #   2. User entered non-empty input -> route to Llama or Qwen
     #   3. User entered empty input -> go back to get_user_input
     def route_after_input(state: AgentState) -> str:
         """
@@ -304,7 +306,7 @@ def create_graph(llama, qwen):
 
         Returns:
             - "__end__": If user wants to quit
-            - "call_llm": If user provided any input (including empty)
+            - "call_llama" or "call_qwen": If user provided any input (including empty)
         """
         # Check if user wants to exit
         if state.get("should_exit", False):
@@ -314,8 +316,14 @@ def create_graph(llama, qwen):
         if state["user_input"] == "":
             return "get_user_input"
 
-        # Default: Proceed to LLM
-        return "fan_out"
+        # Route based on prefix of the user input:
+        # If it begins with "Hey Qwen" (case-insensitive, leading spaces ignored),
+        # send the request to Qwen; otherwise send it to Llama.
+        text = state["user_input"].lstrip()
+        if text.lower().startswith("hey qwen"):
+            return "call_qwen"
+
+        return "call_llama"
 
     # =========================================================================
     # GRAPH CONSTRUCTION
@@ -323,9 +331,8 @@ def create_graph(llama, qwen):
     # Create a StateGraph with our defined state structure
     graph_builder = StateGraph(AgentState)
 
-    # Add all three nodes to the graph
+    # Add all nodes to the graph
     graph_builder.add_node("get_user_input", get_user_input)
-    graph_builder.add_node("fan_out", fan_out)
     graph_builder.add_node("call_llama", call_llama)
     graph_builder.add_node("call_qwen", call_qwen)
     graph_builder.add_node("print_response", print_response)
@@ -334,23 +341,20 @@ def create_graph(llama, qwen):
     # 1. START -> get_user_input (always start by getting user input)
     graph_builder.add_edge(START, "get_user_input")
 
-    # 2. get_user_input -> [conditional] -> fan_out OR END
-    #    Uses route_after_input to decide based on state.should_exit
+    # 2. get_user_input -> [conditional] -> call_llama, call_qwen, get_user_input OR END
+    #    Uses route_after_input to decide based on state.should_exit and user_input
     graph_builder.add_conditional_edges(
         "get_user_input",      # Source node
-        route_after_input,      # Routing function that examines state
+        route_after_input,     # Routing function that examines state
         {
-            "fan_out": "fan_out",  # Any non-empty input -> proceed to LLM
-            "get_user_input": "get_user_input", # Empty input -> go back to get user input
-            END: END                  # Quit command -> terminate graph
+            "call_llama": "call_llama",        # Route to Llama
+            "call_qwen": "call_qwen",          # Route to Qwen
+            "get_user_input": "get_user_input",# Empty input -> go back to get user input
+            END: END                           # Quit command -> terminate graph
         }
     )
 
-    # 3. fan_out -> call both llama and qwen in parallel
-    graph_builder.add_edge("fan_out", "call_llama")
-    graph_builder.add_edge("fan_out", "call_qwen")
-
-    # 4. call_llama or call_qwen -> print_response (always print after LLM responds)
+    # 3. call_llama or call_qwen -> print_response (always print after LLM responds)
     graph_builder.add_edge("call_llama", "print_response")
     graph_builder.add_edge("call_qwen", "print_response")
 
