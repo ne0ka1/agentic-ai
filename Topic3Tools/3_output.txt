@@ -32,4 +32,3 @@ LLM wants to call 1 tool(s)
 
 --- Iteration 3 ---
 Assistant: The temperature in New York is 55°F. If you subtract 10 from that, the result is 45°F.
-

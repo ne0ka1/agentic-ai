@@ -1,0 +1,40 @@
+User: Today's January 29, 2026. I'll take the plane at 17:00 in New York and land in Tokyo at 21:30 tomorrow. How long is the flight in minutes?
+
+Assistant (model): [tool call]
+  Tool: timezone_duration
+  Args: {'time1': '2026-01-29 17:00', 'zone1': 'America/New_York', 'time2': '2026-01-30 21:30', 'zone2': 'Asia/Tokyo'}
+  Result: 870.0 minutes
+Assistant (model): The flight from New York to Tokyo is 870 minutes long, which is equivalent to 14 hours and 30 minutes.
+Assistant: The flight from New York to Tokyo is 870 minutes long, which is equivalent to 14 hours and 30 minutes.
+
+User: Based on that duration, is it less than 15 hours? If so, get the weather for New York and Tokyo and tell me which is warmer.
+
+Assistant (model): [tool call]
+  Tool: get_weather
+  Args: {'location': 'New York'}
+  Result: Cloudy, 55°F
+  Tool: get_weather
+  Args: {'location': 'Tokyo'}
+  Result: Clear, 65°F
+Assistant (model): Yes, the flight duration of 14 hours and 30 minutes is less than 15 hours.
+
+Currently, the weather is as follows:
+- New York: Cloudy, 55°F
+- Tokyo: Clear, 65°F
+
+Tokyo is warmer than New York.
+Assistant: Yes, the flight duration of 14 hours and 30 minutes is less than 15 hours.
+
+Currently, the weather is as follows:
+- New York: Cloudy, 55°F
+- Tokyo: Clear, 65°F
+
+Tokyo is warmer than New York.
+
+--- Simulating crash and recovery (restarting program) ---
+
+
+User: We just recovered from a crash. What were we planning, in one sentence?
+
+Assistant (model): You were planning a trip from New York to Tokyo, with a flight duration of 14 hours and 30 minutes, while also checking the weather conditions in both cities.
+Assistant: You were planning a trip from New York to Tokyo, with a flight duration of 14 hours and 30 minutes, while also checking the weather conditions in both cities.

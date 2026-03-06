@@ -1,0 +1,58 @@
+============================================================
+TEST 4: Query requiring timezone duration
+============================================================
+User: Today's January 29, 2026. I'll take the plane at 5pm tonight in New York and land in Tokyo 9:30pm tomorrow, how long does the flight take?
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: timezone_duration
+  Args: {'time1': '2026-01-29 17:00', 'zone1': 'America/New_York', 'time2': '2026-01-30 21:30', 'zone2': 'Asia/Tokyo'}
+  Result: 870.0 minutes
+
+--- Iteration 2 ---
+Assistant: The flight from New York to Tokyo takes 870 minutes, which is 14 hours and 30 minutes.
+
+============================================================
+TEST 5: Query using all tools
+============================================================
+User: Today's January 29, 2026. First get the weather for New York, then count how many times the letter 'o' appears in the weather description. I'll take the plane at 5pm tonight in New York and land in Tokyo 9:30pm tomorrow, how long does the flight take? If that is less than 15 hours, I'll take the flight, so please me the weather for Tokyo. If I'll be in Tokyo tomorrow, convert the temperature in Tokyo to Celsius.
+
+--- Iteration 1 ---
+LLM wants to call 2 tool(s)
+  Tool: get_weather
+  Args: {'location': 'New York'}
+  Result: Cloudy, 55°F
+  Tool: timezone_duration
+  Args: {'time1': '2026-01-29 17:00', 'zone1': 'America/New_York', 'time2': '2026-01-30 21:30', 'zone2': 'Asia/Tokyo'}
+  Result: 870.0 minutes
+
+--- Iteration 2 ---
+LLM wants to call 1 tool(s)
+  Tool: count_letter
+  Args: {'text': 'Cloudy, 55°F', 'letter': 'o'}
+  Result: 1
+
+--- Iteration 3 ---
+LLM wants to call 1 tool(s)
+  Tool: get_weather
+  Args: {'location': 'Tokyo'}
+  Result: Clear, 65°F
+
+--- Iteration 4 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Args: {'expression': '(65 - 32) * 5/9'}
+  Result: 18.333333
+
+--- Iteration 5 ---
+Assistant: Here are the details based on your requests:
+
+1. **Weather in New York**: Cloudy, 55°F
+   - The letter 'o' appears **1 time** in the weather description.
+
+2. **Flight Duration**: The flight takes **870 minutes**, which is **14 hours and 30 minutes** (less than 15 hours).
+
+3. **Weather in Tokyo**: Clear, 65°F.
+   - The temperature in Celsius is approximately **18.33°C**.
+
+Since the flight duration is less than 15 hours, you're all set to go! Let me know if you need anything else.
