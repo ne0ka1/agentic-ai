@@ -23,6 +23,6 @@ From a manual inspection on the philosophy questions answered by llama3.2-1b, qw
 ## 8. Chat Agent
 
 I implemented the fixed window strategy, to solve the long conversation problem.
-The comparison of multi-turn conversation is showed in `with_history.txt` and `no_history.txt`.
+The comparison of multi-turn conversation is showed in [with_history.txt](./with_history.txt) and [no_history.txt](no_history.txt).
 It is clear that, with chat history turned on, the model is able to utilize the previous user input and model response.
 Without chat history, the model is unable to do that.

@@ -16,12 +16,12 @@ Done.
 
 # Task 3
 
-The calculator tool is added. See `3_output.txt` for demonstration.
+The calculator tool is added. See [3_output.txt](./3_output.txt) for demonstration.
 
 # Task 4
 
 I've added a `count_letter` tool, and a `timezone_duration` tool that compute the time duration from different time zones.
-See `4_output.txt`, the query "Today's January 29, 2026. I'll take the plane at 5pm tonight in New York and land in Tokyo 9:30pm tomorrow, how long does the flight take?" uses all the tool and exhausts 5 iterations.
+See [4_output.txt](4_output.txt), the query "Today's January 29, 2026. I'll take the plane at 5pm tonight in New York and land in Tokyo 9:30pm tomorrow, how long does the flight take?" uses all the tool and exhausts 5 iterations.
 
 # Task 5
 
@@ -48,5 +48,5 @@ flowchart TD
     Tools --- Checkpoint
 ```
 
-For example usage, see `5_output.txt`.
+For example usage, see [5_output.txt](./5_output.txt).
 Inside `demo_conversation`, the same `thread_id` (`"itinerary-thread"`) is reused for every turn.
