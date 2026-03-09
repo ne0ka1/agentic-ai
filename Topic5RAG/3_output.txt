@@ -1,0 +1,231 @@
+============================================================
+Question:
+How do I adjust the carburetor on a Model T?
+
+GPT-5.3 Instant Response:
+Adjusting the carburetor on a **Ford Model T** is fairly simple compared to modern cars. Most Model Ts used the **Kingston carburetor** or **Holley Model G carburetor**, and the main adjustment is the **needle valve** that controls the fuel mixture.
+
+Below is the typical procedure owners use.
+
+---
+
+## 1. Warm the engine first
+
+Start the engine and let it run a few minutes until it reaches normal temperature. Carb adjustments should always be done with the engine warm.
+
+---
+
+## 2. Locate the mixture adjustment needle
+
+On the Model T carburetor, the **needle valve** is usually a small screw sticking out of the carburetor body (often on the bottom or side).
+
+* **Turn clockwise (in)** → Leaner mixture (less fuel)
+* **Turn counterclockwise (out)** → Richer mixture (more fuel)
+
+---
+
+## 3. Set a baseline
+
+A common starting point:
+
+* Gently turn the needle **all the way in** until it lightly seats
+* Back it **out about ¾ to 1½ turns**
+
+This is a typical baseline setting for many Model Ts.
+
+---
+
+## 4. Fine-tune while the engine runs
+
+With the engine idling:
+
+1. Turn the needle **slowly in** until the engine starts to stumble (too lean).
+2. Then back it **out slightly** until the engine runs smoothly again.
+
+You're looking for the **smoothest idle and best throttle response**.
+
+---
+
+## 5. Test under load
+
+Model Ts often require a slightly richer setting while driving.
+
+* Take the car for a short drive.
+* If it **sputters or backfires**, it’s usually **too lean** → open the needle slightly.
+* If it **runs rough, smokes, or smells strongly of fuel**, it’s **too rich** → close it slightly.
+
+Adjust in **very small increments (about 1/8 turn).**
+
+---
+
+## Extra tips specific to Model Ts
+
+* The **dash mixture control rod** also affects the mixture while driving.
+* Dirt in the **sediment bowl or jet** can mimic carb problems.
+* The **timer and spark lever** on the steering column must also be properly set for smooth running.
+
+---
+
+✅ **Typical final setting:** around **¾–1¼ turns open**, but every engine is a little different.
+
+---
+
+If you'd like, I can also show you:
+
+* the **proper driving settings for the Model T spark and mixture levers**, or
+* **how to start and drive a Model T correctly** (which is surprisingly different from modern cars). 🚗
+
+============================================================
+Question:
+What is the correct spark plug gap for a Model T Ford?
+
+GPT-5.3 Instant Response:
+
+For the **Ford Model T**, the typical **spark plug gap** is:
+
+👉 **0.025 inches (about 0.64 mm)**
+
+### Why this gap?
+
+The Model T uses a **magneto ignition system and trembler (buzz) coils**, which produce a relatively low-voltage spark compared to modern ignition systems. A **smaller gap like 0.025"** helps ensure reliable firing.
+
+### Practical tips
+
+* Acceptable range: **0.022–0.025 inches**
+* If starting is difficult, some owners slightly reduce it to **~0.022"** for easier starting.
+* Use a **wire feeler gauge** for accuracy.
+* Make sure plugs are **clean and dry**—carbon fouling was common with early engines.
+
+### Common spark plugs used in Model T
+
+Many restorers use plugs such as:
+
+* **Champion X**
+* **Autolite 3077**
+
+Both typically work well when gapped to **0.025"**.
+
+✅ **Quick summary:**
+**Model T spark plug gap = 0.025 inches**
+
+If you'd like, I can also explain **how to tune the Model T coils and timer**—those adjustments often make a bigger difference than the plug gap.
+
+============================================================
+Question:
+How do I fix a slipping transmission band?
+
+GPT-5.3 Instant Response:
+
+A **slipping transmission band** usually means the band that tightens around a drum inside the transmission isn’t gripping properly. On early cars like the Ford Model T, this is fairly common and often fixable with adjustment rather than a full teardown. 🔧
+
+## 1. Adjust the Transmission Band (Most Common Fix)
+
+On a Model T, the bands are adjustable from underneath the transmission cover.
+
+**Steps:**
+
+1. Remove the floorboards to access the transmission cover.
+2. Locate the **three band adjusting screws and lock nuts**.
+3. Loosen the lock nut.
+4. Turn the adjusting screw **clockwise slightly** (usually about ¼ turn at a time).
+5. Tighten the lock nut again.
+6. Test the pedal operation.
+
+⚠️ Important:
+
+* Adjust **one band at a time**.
+* Do **small adjustments** to avoid binding.
+
+### Which band controls what
+
+* **Left pedal** → Low-speed band
+* **Reverse pedal** → Reverse band
+* **Middle pedal (brake)** → Brake drum band
+
+If **low gear slips**, adjust the **low-speed band**.
+
+## 2. Check Band Lining Condition
+
+If adjustment doesn’t fix the slipping:
+
+* The **cotton or woven lining** on the band may be worn or oil-soaked.
+* Oil contamination from the transmission can reduce grip.
+
+Fix:
+
+* Remove the transmission cover
+* Replace or reline the band.
+
+## 3. Check Transmission Fluid Level
+
+Too much oil in a Model T transmission can cause slipping.
+
+Correct fluid:
+
+* About **1 gallon of engine oil** in the transmission housing.
+
+Drain excess if overfilled.
+
+## 4. Inspect Linkage and Pedals
+
+Loose pedal linkage or worn clevis pins can prevent the band from tightening fully.
+
+Check for:
+
+* Excess pedal travel
+* Loose linkage rods
+* Worn pins.
+
+---
+
+✅ **Quick rule:**
+
+* Slight slip → adjust band
+* Still slipping → replace lining
+* Slips with proper adjustment → internal wear.
+
+---
+
+If you want, I can also show you:
+
+* The **exact band screw to adjust for each pedal**
+* A **diagram of the Model T transmission bands**
+* The **correct pedal positions for driving a Model T** (many people accidentally cause slipping by driving it wrong). 🚗
+
+============================================================
+Question:
+What oil should I use in a Model T engine?
+
+GPT-5.3 Instant Response:
+
+For a **Ford Model T engine**, you should use a **non-detergent motor oil**, typically in the **SAE 30 to SAE 40 weight range** depending on temperature. These engines were designed long before modern detergent oils and oil filtration systems.
+
+### Recommended oil
+
+* **SAE 30 non-detergent oil** – best for most moderate climates
+* **SAE 40 non-detergent oil** – good for hot weather or worn engines
+* **SAE 20 non-detergent oil** – sometimes used in colder weather
+
+### Why non-detergent oil?
+
+The Model T:
+
+* Has **no modern oil filter**
+* Relies on **splash lubrication**
+
+Detergent oils can **suspend sludge and circulate debris**, which may increase wear in an engine designed to let contaminants settle in the crankcase.
+
+### Oil capacity
+
+A Model T engine holds about **1 gallon (≈3.8 L)** of oil in the crankcase.
+
+### Extra tips for Model T owners
+
+* **Check oil often** (many owners check every fuel fill).
+* **Change oil frequently** — historically every **500–1,000 miles**.
+* Clean the **oil drain plug magnet and sediment** when changing oil.
+
+If you want, I can also tell you:
+
+* The **exact oil level procedure for a Model T** (it’s unusual compared to modern cars).
+* The **3 oils many Model T clubs recommend today.** 🚗🔧

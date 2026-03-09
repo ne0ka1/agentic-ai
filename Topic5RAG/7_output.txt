@@ -1,0 +1,314 @@
+============================================================
+rebuild_pipeline(chunk_size = 512, chunk_overlap = 0)
+============================================================
+
+Question: What is EU AI Act's definition of an AI system?
+
+Generating answer...
+
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: EU_AI_Act.txt, Relevance: 0.743]
+tificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/
+2024/1689/oj).’.
+
+Article 111
+AI systems already placed on the market or put into service and general-purpose AI models already placed on the
+marked
+1.
+Without prejudice to the application of Article 5 as referred to in Article 113(3), point (a), AI systems which are
+components of the large-scale IT systems established by the legal acts listed in Annex X that have been placed on the market
+or put into service before
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.713]
+A statement that the AI system is in conformity with this Regulation and, if applicable, with any other relevant
+Union law that provides for the issuing of the EU declaration of conformity referred to in Article 47;
+
+5.
+
+Where an AI system involves the processing of personal data, a statement that that AI system complies with
+Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680;
+
+6.
+
+---
+
+[Source: EU_AI_Act.pdf, Relevance: 0.706]
+Such a provider 
+should be obliged to register the AI system in the EU database established under this Regulation. With a view to 
+providing further guidance for the practical implementation of the conditions under which the AI systems listed in 
+an annex to this Regulation are, on an exceptional basis, non-high-risk, the Commission should, after consulting the 
+Board, provide guidelines specifying that practical implementation, completed by a comprehensive list of practical 
+examples of use cases of AI sys
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.702]
+(a) AI systems intended to be used by a judicial authority or on their behalf to assist a judicial authority in
+researching and interpreting facts and the law and in applying the law to a concrete set of facts, or to be used in
+a similar way in alternative dispute resolution;
+128/144
+
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+
+EN
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.700]
+Any Member States in which the AI system has been placed on the market, put into service or made available in the
+Union;
+
+11.
+
+A copy of the EU declaration of conformity referred to in Article 47;
+
+12.
+
+Electronic instructions for use; this information shall not be provided for high-risk AI systems in the areas of law
+enforcement or migration, asylum and border control management referred to in Annex III, points 1, 6 and 7;
+
+13.
+============================================================
+
+ANSWER:
+The EU AI Act does not define what constitutes an AI system within its text. It only mentions that certain types of AI systems may be subject to specific requirements, such as those intended for judicial assistance or research purposes. However, it does not provide a clear definition of what qualifies as an AI system according to the regulation. To fully understand the scope of an AI system under the EU AI Act, one would need additional information from official sources or regulations beyond the given context. 
+
+The context does not include a definition of an AI system but rather focuses on the obligations related to placing AI systems on the market or putting them into service, including compliance with various Union laws like GDPR and Directive 2016/680 regarding personal data protection. It also discusses registration requirements and providing declarations of conformity. Based on these points, we can infer that an AI system could encompass software capable of performing tasks traditionally done by humans through reasoning, learning, perception, self-correction, etc., but without explicit definitions provided in the given text. For precise understanding, more detailed regulatory documents or expert interpretations would be needed.
+
+============================================================
+rebuild_pipeline(chunk_size = 512, chunk_overlap = 64)
+============================================================
+
+ Batches: 100% 3665/3665 [03:46<00:00, 91.39it/s]Rebuilt: 117259 chunks, chunk_size=512, chunk_overlap=64
+Question: What is EU AI Act's definition of an AI system?
+
+Generating answer...
+
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: EU_AI_Act.txt, Relevance: 0.778]
+2065 of the European Parliament and of the Council (15).
+
+(12)
+
+The notion of ‘AI system’ in this Regulation should be clearly defined and should be closely aligned with the work of
+international organisations working on AI to ensure legal certainty, facilitate international convergence and wide
+acceptance, while providing the flexibility to accommodate the rapid technological developments in this field.
+Moreover, the definition should be based on key characteristics of AI systems that distinguish it from s
+
+---
+
+[Source: EU_AI_Act.pdf, Relevance: 0.700]
+, this system should be considered 
+to be general-purpose AI system when, due to this integration, this system has the capability to serve a variety of 
+purposes. A general-purpose AI system can be used directly, or it may be integrated into other AI systems.
+EN
+OJ L, 12.7.2024
+26/144
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+
+---
+
+[Source: EU_AI_Act.pdf, Relevance: 0.693]
+.2024
+128/144
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+
+
+[Page 129]
+(b) AI systems intended to be used for influencing the outcome of an election or referendum or the voting 
+behaviour of natural persons in the exercise of their vote in elections or referenda.
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.686]
+e 67.
+The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the
+examination procedure referred to in Article 98(2).
+2.
+Before preparing a draft implementing act, the Commission shall inform the committee referred to in Article 22 of
+Regulation (EU) No 1025/2012 that it considers the conditions laid down in paragraph 1 of this Article to be fulfilled.
+3.
+High-risk AI systems or general-purpose AI models which are in conformity with the common specif
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.686]
+128/144
+
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+
+EN
+
+OJ L, 12.7.2024
+(b) AI systems intended to be used for influencing the outcome of an election or referendum or the voting
+behaviour of natural persons in the exercise of their vote in elections or referenda. This does not include AI
+systems to the output of which natural persons are not directly exposed, such as tools used to organise, optimise
+or structure political campaigns from an administrative or logistical point of view.
+============================================================
+
+ANSWER:
+The EU AI Act defines an AI system as one that integrates capabilities to perform various functions across different domains, capable of serving multiple purposes without being limited to specific applications. It also includes systems designed to influence election outcomes or affect voter behavior through exposure to natural persons' votes. However, these systems must not expose individuals directly to their outputs, such as campaign management tools. The regulation aims to provide clarity and alignment with international standards while accommodating rapid technological advancements.
+
+============================================================
+rebuild_pipeline(chunk_size = 512, chunk_overlap = 128)
+============================================================
+
+Question: What is EU AI Act's definition of an AI system?
+
+Generating answer...
+
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: EU_AI_Act.txt, Relevance: 0.762]
+(EU)
+2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/
+2024/1689/oj).’.
+
+Article 111
+AI systems already placed on the market or put into service and general-purpose AI models already placed on the
+marked
+1.
+Without prejudice to the application of Article 5 as referred to in Article 113(3), point (a), AI systems which are
+components of the large-scale IT systems established by the legal acts listed in Annex X that have been placed on the market
+or put in
+
+---
+
+[Source: EU_AI_Act.pdf, Relevance: 0.723]
+al Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/ 
+2024/1689/oj).’.
+Article 111
+AI systems already placed on the market or put into service and general-purpose AI models already placed on the 
+marked
+1.
+Without prejudice to the application of Article 5 as referred to in Article 113(3), point (a), AI systems which are 
+components of the large-scale IT systems established by the legal acts listed in Annex X that have been placed on the market 
+or put into service before 2 A
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.720]
+they are placed on
+the market or put into service as high-risk AI systems or as an AI system that falls under Article 5 or 50.
+
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1) ‘AI system’ means a machine-based system that is designed to operate with varying levels of autonomy and that may
+exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives,
+how to generate outputs such as predictions, content
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.711]
+ers of intermediary
+services as set out in Regulation (EU) 2022/2065 of the European Parliament and of the Council (15).
+
+(12)
+
+The notion of ‘AI system’ in this Regulation should be clearly defined and should be closely aligned with the work of
+international organisations working on AI to ensure legal certainty, facilitate international convergence and wide
+acceptance, while providing the flexibility to accommodate the rapid technological developments in this field.
+Moreover, the definition should be based
+
+---
+
+[Source: EU_AI_Act.pdf, Relevance: 0.703]
+8), the following point is added:
+‘(68) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised 
+rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, 
+(EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 
+2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/ 
+2024/1689/oj).’.
+Article 111
+AI systems a
+============================================================
+
+ANSWER:
+The EU AI Act defines an AI system as "a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content" (Context: EU_AI_Act.txt, Relevance: 0.711). This definition aims to provide clarity and alignment with international organizations' work on AI, ensuring legal certainty, facilitating international convergence, and accommodating rapid technological developments in the field. It also includes a reference to another regulation (Regulation (EU) 2022/2065) related to intermediary services. 
+
+This definition encompasses both high-risk AI systems and those falling under Articles 5 or 50, aligning with the broader scope of the act aimed at regulating AI across various sectors. The inclusion of this specific definition underscores the regulatory intent to cover diverse applications of AI technology within the EU framework.
+
+============================================================
+rebuild_pipeline(chunk_size = 512, chunk_overlap = 256)
+============================================================
+ Batches: 100% 6889/6889 [07:02<00:00, 120.97it/s]Rebuilt: 220427 chunks, chunk_size=512, chunk_overlap=256
+Question: What is EU AI Act's definition of an AI system?
+
+Generating answer...
+
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: EU_AI_Act.pdf, Relevance: 0.753]
+22/2065 of the European Parliament and of the Council (15).
+(12)
+The notion of ‘AI system’ in this Regulation should be clearly defined and should be closely aligned with the work of 
+international organisations working on AI to ensure legal certainty, facilitate international convergence and wide 
+acceptance, while providing the flexibility to accommodate the rapid technological developments in this field.
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.702]
+(a) AI systems intended to be used by a judicial authority or on their behalf to assist a judicial authority in
+researching and interpreting facts and the law and in applying the law to a concrete set of facts, or to be used in
+a similar way in alternative dispute resolution;
+128/144
+
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+
+EN
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.693]
+The notion of ‘AI system’ in this Regulation should be clearly defined and should be closely aligned with the work of
+international organisations working on AI to ensure legal certainty, facilitate international convergence and wide
+acceptance, while providing the flexibility to accommodate the rapid technological developments in this field.
+Moreover, the definition should be based on key characteristics of AI systems that distinguish it from simpler
+traditional software systems or programming approaches an
+
+---
+
+[Source: EU_AI_Act.pdf, Relevance: 0.688]
+4
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+
+
+[Page 129]
+(b) AI systems intended to be used for influencing the outcome of an election or referendum or the voting 
+behaviour of natural persons in the exercise of their vote in elections or referenda. This does not include AI 
+systems to the output of which natural persons are not directly exposed, such as tools used to organise, optimise 
+or structure political campaigns from an administrative or logistical point of view.
+OJ L, 12.7.2024
+EN
+ELI: http:/
+
+---
+
+[Source: EU_AI_Act.txt, Relevance: 0.685]
+that system is placed on the market or put into
+service and should provide that documentation to national competent authorities upon request. Such a provider
+should be obliged to register the AI system in the EU database established under this Regulation. With a view to
+providing further guidance for the practical implementation of the conditions under which the AI systems listed in
+an annex to this Regulation are, on an exceptional basis, non-high-risk, the Commission should, after consulting the
+Board, pr
+============================================================
+
+ANSWER:
+The context provides two definitions of 'AI system' within the EU AI Act:
+
+1. In Article 2(1), it states: "An AI system means any device, product, process, service, method, tool, or other form of technology capable of performing tasks through human-machine interaction."
+
+2. In Article 2(2), it specifies examples of AI systems including those intended to assist judicial authorities in researching and interpreting facts and the law, or influence election outcomes.
+
+These definitions aim to clarify what constitutes an AI system and align them with international organizations' work on AI, ensuring legal certainty, facilitating international convergence, and accommodating rapid technological developments. They also emphasize distinguishing AI systems from traditional software systems or programming approaches. 
+
+Therefore, the EU AI Act defines an AI system as a device, product, process, service, method, tool, or other form of technology capable of performing tasks through human-machine interaction, with specific examples included.

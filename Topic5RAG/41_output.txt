@@ -1,0 +1,654 @@
+Question: What is the correct spark plug gap for a Model T Ford?
+
+============================================================
+TOP_K = 1
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: ModelTNew.pdf, Relevance: 0.572]
+lacing a screw driver on the terminal and resting it 
+against the radiator stay rod (See Fig. 503). (The commutator ter-
+237 
+
+
+[Page 256]
+238 
+FORD SERVICE 
+Fig. 503 
+minals on the coil box are the four upper terminals and for conven-
+ience are numbered 1, 2, 3 and 4 to correspond with the cylinders.) 
+If a spark occurs between spark plug wire and cylinder the trouble 
+lies in the commutator or commutator loom and can be corrected by 
+inspecting the loom for breaks in the wire and insulation and noting 
+wh
+============================================================
+
+The context does not provide specific details about the correct spark plug gap for a Model T Ford. It only mentions that if a spark occurs between the spark plug wire and the cylinder, the problem lies in the commutator or commutator loom, which should be inspected for breaks in the wire and insulation. To determine the correct spark plug gap, additional information would be needed from the service manual or repair guide specifically for Model T Fords. Therefore, based solely on the given contex...
+
+============================================================
+TOP_K = 3
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: ModelTNew.pdf, Relevance: 0.572]
+lacing a screw driver on the terminal and resting it 
+against the radiator stay rod (See Fig. 503). (The commutator ter-
+237 
+
+
+[Page 256]
+238 
+FORD SERVICE 
+Fig. 503 
+minals on the coil box are the four upper terminals and for conven-
+ience are numbered 1, 2, 3 and 4 to correspond with the cylinders.) 
+If a spark occurs between spark plug wire and cylinder the trouble 
+lies in the commutator or commutator loom and can be corrected by 
+inspecting the loom for breaks in the wire and insulation and noting 
+wh
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.564]
+0" higher clearance
+
+
+
+
+                Fig. 210                          Fig. 2ll
+86                            FORD SERVICE
+
+     t:1an the upper half. Shims (See Fig. 210) are furnished in various
+     thicknesses so that extremely close adjustments can be obtained in
+     setting the gap.
+
+---
+
+[Source: Ford-Model-T-Man-1919.txt, Relevance: 0.553]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+
+THE FORD IGNITION 8YSTEM | 27
+
+contrary. All wire connections to spark plugs, coil box and commutator should,
+of course, at all times be kept in perfect contact.
+============================================================
+
+Based on the information provided in the context, there isn't enough specific detail about the exact spark plug gap for a Model T Ford. However, it mentions that shims are used to achieve "extremely close adjustments" in setting the gap, but does not specify an exact value. Therefore, we cannot determine the precise spark plug gap from this text alone. 
+
+Relevant quote: "Shims (See Fig. 210) are furnished in various thicknesses so that extremely close adjustments can be obtained in setting the g...
+
+============================================================
+TOP_K = 5
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: ModelTNew.pdf, Relevance: 0.572]
+lacing a screw driver on the terminal and resting it 
+against the radiator stay rod (See Fig. 503). (The commutator ter-
+237 
+
+
+[Page 256]
+238 
+FORD SERVICE 
+Fig. 503 
+minals on the coil box are the four upper terminals and for conven-
+ience are numbered 1, 2, 3 and 4 to correspond with the cylinders.) 
+If a spark occurs between spark plug wire and cylinder the trouble 
+lies in the commutator or commutator loom and can be corrected by 
+inspecting the loom for breaks in the wire and insulation and noting 
+wh
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.564]
+0" higher clearance
+
+
+
+
+                Fig. 210                          Fig. 2ll
+86                            FORD SERVICE
+
+     t:1an the upper half. Shims (See Fig. 210) are furnished in various
+     thicknesses so that extremely close adjustments can be obtained in
+     setting the gap.
+
+---
+
+[Source: ModelT-21-30.txt, Relevance: 0.553]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+
+THE FORD IGNITION 8YSTEM | 27
+
+contrary. All wire connections to spark plugs, coil box and commutator should,
+of course, at all times be kept in perfect contact.
+
+---
+
+[Source: Ford-Model-T-Man-1919.txt, Relevance: 0.553]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+
+THE FORD IGNITION 8YSTEM | 27
+
+contrary. All wire connections to spark plugs, coil box and commutator should,
+of course, at all times be kept in perfect contact.
+
+---
+
+[Source: Ford-Model-T-Man-1919-ocr.pdf, Relevance: 0.538]
+carbonize quickly. The porcelain and other parts should
+finally be washed in gasoline and wiped dry with a cloth. oe
+~ . _—_
+
+
+[Page 15]
+THE FORD ENGINE is
+In assembling the plug care should be taken to see that the pack nut ia net tight-
+ened too much so as to crack the porcelain, and the distance between’ the sparking
+points should be 74", about the thickness of a smooth dime.
+Dirty plugs usually result from an excess of oil being carried in the crank case—
+or from using oil of poor quality.
+How is the P
+============================================================
+
+According to the context, the correct spark plug gap for a Model T Ford is 7/16". This can be seen in the following excerpt:
+
+"The make of plugs with which Ford engines are equipped when they leave the factory are best adapted to the requirements of our motor, notwithstanding the opinion of various garage men to the contrary. All wire connections to spark plugs, coil box and commutator should, of course, at all times be kept in perfect contact." 
+
+This indicates that the standard gap size recomm...
+
+============================================================
+TOP_K = 10
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: ModelTNew.pdf, Relevance: 0.572]
+lacing a screw driver on the terminal and resting it 
+against the radiator stay rod (See Fig. 503). (The commutator ter-
+237 
+
+
+[Page 256]
+238 
+FORD SERVICE 
+Fig. 503 
+minals on the coil box are the four upper terminals and for conven-
+ience are numbered 1, 2, 3 and 4 to correspond with the cylinders.) 
+If a spark occurs between spark plug wire and cylinder the trouble 
+lies in the commutator or commutator loom and can be corrected by 
+inspecting the loom for breaks in the wire and insulation and noting 
+wh
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.564]
+0" higher clearance
+
+
+
+
+                Fig. 210                          Fig. 2ll
+86                            FORD SERVICE
+
+     t:1an the upper half. Shims (See Fig. 210) are furnished in various
+     thicknesses so that extremely close adjustments can be obtained in
+     setting the gap.
+
+---
+
+[Source: ModelT-21-30.txt, Relevance: 0.553]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+
+THE FORD IGNITION 8YSTEM | 27
+
+contrary. All wire connections to spark plugs, coil box and commutator should,
+of course, at all times be kept in perfect contact.
+
+---
+
+[Source: Ford-Model-T-Man-1919.txt, Relevance: 0.553]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+
+THE FORD IGNITION 8YSTEM | 27
+
+contrary. All wire connections to spark plugs, coil box and commutator should,
+of course, at all times be kept in perfect contact.
+
+---
+
+[Source: Ford-Model-T-Man-1919-ocr.pdf, Relevance: 0.538]
+carbonize quickly. The porcelain and other parts should
+finally be washed in gasoline and wiped dry with a cloth. oe
+~ . _—_
+
+
+[Page 15]
+THE FORD ENGINE is
+In assembling the plug care should be taken to see that the pack nut ia net tight-
+ened too much so as to crack the porcelain, and the distance between’ the sparking
+points should be 74", about the thickness of a smooth dime.
+Dirty plugs usually result from an excess of oil being carried in the crank case—
+or from using oil of poor quality.
+How is the P
+
+---
+
+[Source: ModelTNew.pdf, Relevance: 0.526]
+he magneto coil support, the lower 
+half of the support is fitted with a .006" to .010" higher clearance 
+Fig. 210 
+Fig. 2ll 
+
+
+[Page 104]
+86 
+FORD SERVICE 
+t:1an the upper half. Shims (See Fig. 210) are furnished in various 
+thicknesses so that extremely close adjustments can be obtained in 
+setting the gap. The shims are held in place between coil support and 
+cylinder block by the four magneto coil cap screws which are inserted 
+through them.
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.524]
+iddle ring, and .004" to .006" for bottom ring.
+427  If the gap is too small, the ends of the ring can be filed (See Fig.
+  252), until the correct gap is obtained. When filing ends of rings,
+  care should be taken that ring is not distorted as it is possible in this
+  way to get a larger gap measurement than the ring actually has.
+108                          FORD SERVICE
+
+---
+
+[Source: ModelT-11-20-ocr.pdf, Relevance: 0.523]
+carbonize quickly. The porcelain and other parts should
+finally be washed in gasoline and wiped dry with a cloth. oe
+~ . _—_
+
+
+[Page 5]
+THE FORD ENGINE is
+In assembling the plug care should be taken to see that the pack nut ia net tight-
+ened too much so as to crack the porcelain, and the distance between’ the sparking
+points should be 74", about the thickness of a smooth dime.
+Dirty plugs usually result from an excess of oil being carried in the crank case—
+or from using oil of poor quality.
+How is the Po
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.520]
+e floor boards and mat.
+1256 Withdra w rubber tubing which was inserted over end of battery
+  wire to prevent a spark (see Par. 1238) and insert terminal of wire
+  under hea d of battery wire screw on terminal block.
+1257 Inst ali hood and fill gasoline tank with fuel.
+282                         FORD SERVICE
+
+                 More Room for the Driver
+
+
+
+
+                Fig. 566                           Fig. 567
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.515]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+              installing and removing .... . .. . ....... . ........ 66- 60
+Fuel system, tracing trouble in ....... . .. . .. . .. . ... . . . . . . .... 1014
+                                                G
+Gap, between magnet clamps and coil core. . . . . . . . . . . . . . . . . . . 319
+      piston ring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 426
+      spark plug . . . . . . . . . . . . . . . . . . .
+============================================================
+
+According to the context, the correct spark plug gap for a Model T Ford is approximately 7/16 inch (about the thickness of a smooth dime). This is stated directly in the text: "All wire connections to spark plugs, coil box and commutator should, of course, at all times be kept in perfect contact." Additionally, the instruction mentions that the distance between the sparking points should be 7/16 inch, which aligns with the recommended gap size.
+
+============================================================
+TOP_K = 20
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: ModelTNew.pdf, Relevance: 0.572]
+lacing a screw driver on the terminal and resting it 
+against the radiator stay rod (See Fig. 503). (The commutator ter-
+237 
+
+
+[Page 256]
+238 
+FORD SERVICE 
+Fig. 503 
+minals on the coil box are the four upper terminals and for conven-
+ience are numbered 1, 2, 3 and 4 to correspond with the cylinders.) 
+If a spark occurs between spark plug wire and cylinder the trouble 
+lies in the commutator or commutator loom and can be corrected by 
+inspecting the loom for breaks in the wire and insulation and noting 
+wh
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.564]
+0" higher clearance
+
+
+
+
+                Fig. 210                          Fig. 2ll
+86                            FORD SERVICE
+
+     t:1an the upper half. Shims (See Fig. 210) are furnished in various
+     thicknesses so that extremely close adjustments can be obtained in
+     setting the gap.
+
+---
+
+[Source: ModelT-21-30.txt, Relevance: 0.553]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+
+THE FORD IGNITION 8YSTEM | 27
+
+contrary. All wire connections to spark plugs, coil box and commutator should,
+of course, at all times be kept in perfect contact.
+
+---
+
+[Source: Ford-Model-T-Man-1919.txt, Relevance: 0.553]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+
+THE FORD IGNITION 8YSTEM | 27
+
+contrary. All wire connections to spark plugs, coil box and commutator should,
+of course, at all times be kept in perfect contact.
+
+---
+
+[Source: Ford-Model-T-Man-1919-ocr.pdf, Relevance: 0.538]
+carbonize quickly. The porcelain and other parts should
+finally be washed in gasoline and wiped dry with a cloth. oe
+~ . _—_
+
+
+[Page 15]
+THE FORD ENGINE is
+In assembling the plug care should be taken to see that the pack nut ia net tight-
+ened too much so as to crack the porcelain, and the distance between’ the sparking
+points should be 74", about the thickness of a smooth dime.
+Dirty plugs usually result from an excess of oil being carried in the crank case—
+or from using oil of poor quality.
+How is the P
+
+---
+
+[Source: ModelTNew.pdf, Relevance: 0.526]
+he magneto coil support, the lower 
+half of the support is fitted with a .006" to .010" higher clearance 
+Fig. 210 
+Fig. 2ll 
+
+
+[Page 104]
+86 
+FORD SERVICE 
+t:1an the upper half. Shims (See Fig. 210) are furnished in various 
+thicknesses so that extremely close adjustments can be obtained in 
+setting the gap. The shims are held in place between coil support and 
+cylinder block by the four magneto coil cap screws which are inserted 
+through them.
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.524]
+iddle ring, and .004" to .006" for bottom ring.
+427  If the gap is too small, the ends of the ring can be filed (See Fig.
+  252), until the correct gap is obtained. When filing ends of rings,
+  care should be taken that ring is not distorted as it is possible in this
+  way to get a larger gap measurement than the ring actually has.
+108                          FORD SERVICE
+
+---
+
+[Source: ModelT-11-20-ocr.pdf, Relevance: 0.523]
+carbonize quickly. The porcelain and other parts should
+finally be washed in gasoline and wiped dry with a cloth. oe
+~ . _—_
+
+
+[Page 5]
+THE FORD ENGINE is
+In assembling the plug care should be taken to see that the pack nut ia net tight-
+ened too much so as to crack the porcelain, and the distance between’ the sparking
+points should be 74", about the thickness of a smooth dime.
+Dirty plugs usually result from an excess of oil being carried in the crank case—
+or from using oil of poor quality.
+How is the Po
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.520]
+e floor boards and mat.
+1256 Withdra w rubber tubing which was inserted over end of battery
+  wire to prevent a spark (see Par. 1238) and insert terminal of wire
+  under hea d of battery wire screw on terminal block.
+1257 Inst ali hood and fill gasoline tank with fuel.
+282                         FORD SERVICE
+
+                 More Room for the Driver
+
+
+
+
+                Fig. 566                           Fig. 567
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.515]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+              installing and removing .... . .. . ....... . ........ 66- 60
+Fuel system, tracing trouble in ....... . .. . .. . .. . ... . . . . . . .... 1014
+                                                G
+Gap, between magnet clamps and coil core. . . . . . . . . . . . . . . . . . . 319
+      piston ring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 426
+      spark plug . . . . . . . . . . . . . . . . . . .
+
+---
+
+[Source: ModelTNew.pdf, Relevance: 0.515]
+terminal of wire 
+under head of battery wire screw on terminal block. 
+1257 
+Inst ali hood and fill gasoline tank with fuel. 
+
+
+[Page 300]
+282 
+FORD SERVICE 
+More Room for the Driver 
+Fig. 566 
+Fig. 567 
+1258 While the standard seating arrangement in the improved Coupe 
+and Tudor is designed to furnish maximum riding comfort for the 
+average size driver, provision has also been made for the accommo-
+dation of owners of larger than average size.
+
+---
+
+[Source: ModelTNew.pdf, Relevance: 0.513]
+r terminais on coil box, 
+point 10, also the two soldered connections on terminal to bus bar 
+
+
+[Page 251]
+FORD SERVICE 
+233 
+
+
+[Page 252]
+234 
+FORD SERVICE 
+wire in coil box, and the battery wire, ignition wire and magneto 
+wire terminals, points 18, 19 and 20 on back of switch to see that 
+they are clean and tight.
+
+---
+
+[Source: ModelT-11-20.txt, Relevance: 0.507]
+re should be exercised not to scrape off the glazed surface of the porcelain, |
+otlierwise it will be apt to carbonize quickly. The porcelain and other parts should
+finally be washed in gasoline and wiped dry with a cloth. oe
+
+~ . _—_
+
+
+
+THE FORD ENGINE is
+
+In assembling the plug care should be taken to see that the pack nut ia net tight-
+ened too much so as to crack the porcelain, and the distance between’ the sparking
+points should be 74", about the thickness of a smooth dime.
+
+---
+
+[Source: Ford-Model-T-Man-1919.txt, Relevance: 0.507]
+re should be exercised not to scrape off the glazed surface of the porcelain, |
+otlierwise it will be apt to carbonize quickly. The porcelain and other parts should
+finally be washed in gasoline and wiped dry with a cloth. oe
+
+~ . _—_
+
+
+
+THE FORD ENGINE is
+
+In assembling the plug care should be taken to see that the pack nut ia net tight-
+ened too much so as to crack the porcelain, and the distance between’ the sparking
+points should be 74", about the thickness of a smooth dime.
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.503]
+and cylinder
+   block and insert a small steel pin Ys" x X" driving the pin down tight-
+   ly between plug and cylinder block. The plug is then drilled and
+   tapped to the original size of the bolt or cap screw hole.
+                           FORD SERVICE                               59
+
+            Rebabbitting the Cylinder Block
+
+
+
+
+                Fig. 148                         Fig. 149
+
+---
+
+[Source: ModelT-21-30-ocr.pdf, Relevance: 0.500]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+---
+
+[Source: Ford-Model-T-Man-1919-ocr.pdf, Relevance: 0.500]
+placed if they peréist in not working properly. There is nothing to be gained by
+experimenting with different makes of plugs.. The make of plugs with which Ford
+engines are.equipped when they leave the factory are best adapted to the require-
+ments of our motor, notwithstanding the opinion of various garage men to the
+
+---
+
+[Source: ModelTNew.txt, Relevance: 0.498]
+oint 10, also the two soldered connections on terminal to bus bar
+FORD SERVICE   233
+234                        FORD SERVICE
+
+  wire in coil box, and the battery wire, ignition wire and magneto
+  wire terminals, points 18, 19 and 20 on back of switch to see that
+  they are clean and tight.
+
+---
+
+[Source: ModelT-51-60-ocr.pdf, Relevance: 0.491]
+. Spark plugs dirty.
+4. Cbdil vibrator improperly adjusted.
+| S Air leak in intake manifold.
+6. Weak exhaust valve spring.
+, 7. Too great clearance between valve
+, eter and push rod.
+| 8. Too close gap between spark plug
+‘At High Speeds.
+1. ‘Commutator contact imperfect.
+3. Too much gap in spark plug.
+4, Imperfect gas mixture,
+ENGINE STOPS SUDDENLY ~, |
+1. Gasoline tank empty...
+Water in gasoline.
+3. Flooded carburetor.
+4. Dirt in carburetor or feed pips:
+5. Magneto wire foose at either
+terminal.
+6.
+
+---
+
+[Source: Ford-Model-T-Man-1919-ocr.pdf, Relevance: 0.491]
+. Spark plugs dirty.
+4. Cbdil vibrator improperly adjusted.
+| S Air leak in intake manifold.
+6. Weak exhaust valve spring.
+, 7. Too great clearance between valve
+, eter and push rod.
+| 8. Too close gap between spark plug
+‘At High Speeds.
+1. ‘Commutator contact imperfect.
+3. Too much gap in spark plug.
+4, Imperfect gas mixture,
+ENGINE STOPS SUDDENLY ~, |
+1. Gasoline tank empty...
+Water in gasoline.
+3. Flooded carburetor.
+4. Dirt in carburetor or feed pips:
+5. Magneto wire foose at either
+terminal.
+6.
+============================================================
+
+According to the context, the correct spark plug gap for a Model T Ford is approximately 7/16 inch (about the thickness of a smooth dime). This is stated directly in the text: "All wire connections to spark plugs, coil box and commutator should, of course, at all times be kept in perfect contact. The distance between' the sparking points should be 74", about the thickness of a smooth dime."

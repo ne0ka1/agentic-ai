@@ -1,0 +1,688 @@
+Question: What is the purpose of the Main Street Parity Act?
+
+============================================================
+TOP_K = 1
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: CREC-2026-01-20.txt, Relevance: 0.707]
+cted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ‘‘Main Street
+Parity Act’’.
+SEC. 2. MODIFICATION TO CRITERIA FOR LOANS
+FOR PLANT ACQUISITION, CONSTRUCTION, CONVERSION OR EXPANSION.
+(a) IN GENERAL.—Section 502(3)(C) of the
+============================================================
+
+The purpose of the Main Street Parity Act is to modify the criteria for loans for plant acquisition, construction, conversion or expansion. This act may be cited as the 'Main Street Parity Act'. According to section 2, this modification involves changing Section 502(3)(C) of the relevant legislation. 
+
+The specific details about what exactly is being modified (e.g., interest rates, loan amounts, etc.) are not provided in the given context. Therefore, while we know it's related to modifying loan ...
+
+============================================================
+TOP_K = 3
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: CREC-2026-01-20.txt, Relevance: 0.707]
+cted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ‘‘Main Street
+Parity Act’’.
+SEC. 2. MODIFICATION TO CRITERIA FOR LOANS
+FOR PLANT ACQUISITION, CONSTRUCTION, CONVERSION OR EXPANSION.
+(a) IN GENERAL.—Section 502(3)(C) of the
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.693]
+y requirement is the difference
+between jumping in headfirst and creating new economic opportunities for
+their communities and families or
+walking away entirely.
+This way of doing business just
+doesn’t reflect our current economic or
+technological realities. This bill offers
+a new opportunity for Americans
+across the country to step forward.
+The Main Street Parity Act is common sense.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.683]
+n jumping in headfirst and cre-
+ating new economic opportunities for 
+their communities and families or 
+walking away entirely. 
+This way of doing business just 
+doesn’t reflect our current economic or 
+technological realities. This bill offers 
+a 
+new 
+opportunity 
+for 
+Americans 
+across the country to step forward. 
+The Main Street Parity Act is com-
+mon sense. It is a clear fix that brings 
+these loans in line with the 504 stand-
+ardization programs by setting an eq-
+uity requirement at 10 percent.
+============================================================
+
+The purpose of the Main Street Parity Act is to modify the criteria for loans for plant acquisition, construction, conversion, or expansion, ensuring they align with the 504 standardization programs by setting an equity requirement at 10%. This act aims to provide a fair and equitable opportunity for Americans across the country to pursue these types of investments without being limited by outdated standards.
+
+============================================================
+TOP_K = 5
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: CREC-2026-01-20.txt, Relevance: 0.707]
+cted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ‘‘Main Street
+Parity Act’’.
+SEC. 2. MODIFICATION TO CRITERIA FOR LOANS
+FOR PLANT ACQUISITION, CONSTRUCTION, CONVERSION OR EXPANSION.
+(a) IN GENERAL.—Section 502(3)(C) of the
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.693]
+y requirement is the difference
+between jumping in headfirst and creating new economic opportunities for
+their communities and families or
+walking away entirely.
+This way of doing business just
+doesn’t reflect our current economic or
+technological realities. This bill offers
+a new opportunity for Americans
+across the country to step forward.
+The Main Street Parity Act is common sense.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.683]
+n jumping in headfirst and cre-
+ating new economic opportunities for 
+their communities and families or 
+walking away entirely. 
+This way of doing business just 
+doesn’t reflect our current economic or 
+technological realities. This bill offers 
+a 
+new 
+opportunity 
+for 
+Americans 
+across the country to step forward. 
+The Main Street Parity Act is com-
+mon sense. It is a clear fix that brings 
+these loans in line with the 504 stand-
+ardization programs by setting an eq-
+uity requirement at 10 percent.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.679]
+his bill offers
+a new opportunity for Americans
+across the country to step forward.
+The Main Street Parity Act is common sense. It is a clear fix that brings
+these loans in line with the 504 standardization programs by setting an equity requirement at 10 percent.
+Madam Speaker, I encourage Members from both sides of the aisle to put
+small business owners and their employees first by supporting this bill.
+Mr. WILLIAMS of Texas. Madam
+Speaker, I am prepared to close, and I
+reserve the balance of my time.
+Ms.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.584]
+or the Commonwealth of the 
+Northern Mariana Islands;                               Pages H929–30 
+Main Street Parity Act: H.R. 5763, to amend 
+the Small Business Investment Act of 1958 to mod-
+ify the criteria for loans for plant acquisition, con-
+struction, conversion or expansion, by a 2⁄3 yea-and- 
+nay vote of 383 yeas to 8 nays, Roll No. 32; 
+                                                                    Pages H930–31, H939–40 
+AI for Main Street Act: H.R.
+============================================================
+
+The purpose of the Main Street Parity Act is to modify the criteria for loans for plant acquisition, construction, conversion or expansion, by setting an equity requirement at 10 percent, which aligns these loans with the 504 standardization programs. This act aims to provide small businesses across the country with more equitable access to capital while reflecting modern economic and technological realities.
+
+============================================================
+TOP_K = 10
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: CREC-2026-01-20.txt, Relevance: 0.707]
+cted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ‘‘Main Street
+Parity Act’’.
+SEC. 2. MODIFICATION TO CRITERIA FOR LOANS
+FOR PLANT ACQUISITION, CONSTRUCTION, CONVERSION OR EXPANSION.
+(a) IN GENERAL.—Section 502(3)(C) of the
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.693]
+y requirement is the difference
+between jumping in headfirst and creating new economic opportunities for
+their communities and families or
+walking away entirely.
+This way of doing business just
+doesn’t reflect our current economic or
+technological realities. This bill offers
+a new opportunity for Americans
+across the country to step forward.
+The Main Street Parity Act is common sense.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.683]
+n jumping in headfirst and cre-
+ating new economic opportunities for 
+their communities and families or 
+walking away entirely. 
+This way of doing business just 
+doesn’t reflect our current economic or 
+technological realities. This bill offers 
+a 
+new 
+opportunity 
+for 
+Americans 
+across the country to step forward. 
+The Main Street Parity Act is com-
+mon sense. It is a clear fix that brings 
+these loans in line with the 504 stand-
+ardization programs by setting an eq-
+uity requirement at 10 percent.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.679]
+his bill offers
+a new opportunity for Americans
+across the country to step forward.
+The Main Street Parity Act is common sense. It is a clear fix that brings
+these loans in line with the 504 standardization programs by setting an equity requirement at 10 percent.
+Madam Speaker, I encourage Members from both sides of the aisle to put
+small business owners and their employees first by supporting this bill.
+Mr. WILLIAMS of Texas. Madam
+Speaker, I am prepared to close, and I
+reserve the balance of my time.
+Ms.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.584]
+or the Commonwealth of the 
+Northern Mariana Islands;                               Pages H929–30 
+Main Street Parity Act: H.R. 5763, to amend 
+the Small Business Investment Act of 1958 to mod-
+ify the criteria for loans for plant acquisition, con-
+struction, conversion or expansion, by a 2⁄3 yea-and- 
+nay vote of 383 yeas to 8 nays, Roll No. 32; 
+                                                                    Pages H930–31, H939–40 
+AI for Main Street Act: H.R.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.573]
+of my time.
+Ms. VELÁZQUEZ. Madam Speaker, I
+yield myself such time as I may consume.
+Madam Speaker, I rise in support of
+H.R. 5763, the Main Street Parity Act.
+One of the key functions of the SBA
+is to ensure that small businesses in
+communities across the country have
+access to the capital they need to grow
+and scale their operations.
+The SBA has long served this need
+through its loan guarantee program,
+including the 504/CDC program.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.565]
+for his collaboration on this bill.
+Madam Speaker, I am extremely
+proud to lead the Main Street Parity
+Act with Chair WILLIAMS. As members
+of the Small Business Committee, one
+of the most bipartisan committees in
+the 119th Congress, we hear the same
+messages repeated every single day:
+Small businesses don’t need special
+treatment.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.560]
+rsion or expansion, and for other pur-
+poses. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R. 5763 
+Be it enacted by the Senate and House of Rep-
+resentatives of the United States of America in 
+Congress assembled, 
+SECTION 1. SHORT TITLE. 
+This Act may be cited as the ‘‘Main Street 
+Parity Act’’. 
+SEC. 2. MODIFICATION TO CRITERIA FOR LOANS 
+FOR 
+PLANT 
+ACQUISITION, 
+CON-
+STRUCTION, CONVERSION OR EX-
+PANSION.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.556]
+ause 8 of rule XX, further pro-
+ceedings on this motion will be post-
+poned. 
+f 
+AI FOR MAIN STREET ACT 
+Mr. WILLIAMS of Texas. Madam 
+Speaker, I move to suspend the rules 
+and pass the bill (H.R. 5764) to amend 
+the Small Business Act to require 
+small business development centers to 
+assist small business concerns with the 
+use of artificial intelligence, and for 
+other purposes, as amended. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.556]
+se today in
+strong support of my bill, H.R. 5763, the
+Main Street Parity Act.
+I also thank the gentlewoman from
+California (Ms. SIMON), my friend, for
+joining me in co-leading this bipartisan
+effort.
+The SBA’s 504 loan program is an important tool that helps small businesses obtain affordable financing for
+the acquisition of fixed assets, such as
+land, buildings, and heavy machinery.
+To obtain a 504 loan, a small business
+owner must contribute 10 percent of
+the total project cost as a form of
+downpayment.
+============================================================
+
+The purpose of the Main Street Parity Act is to modify the criteria for loans for plant acquisition, construction, conversion or expansion, ensuring that these loans align more closely with the standards set by the 504 standardization programs, specifically by establishing an equity requirement at 10%. This act aims to provide a fairer and more accessible lending mechanism for small businesses across the country.
+
+============================================================
+TOP_K = 20
+============================================================
+============================================================
+RETRIEVED CONTEXT:
+============================================================
+[Source: CREC-2026-01-20.txt, Relevance: 0.707]
+cted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ‘‘Main Street
+Parity Act’’.
+SEC. 2. MODIFICATION TO CRITERIA FOR LOANS
+FOR PLANT ACQUISITION, CONSTRUCTION, CONVERSION OR EXPANSION.
+(a) IN GENERAL.—Section 502(3)(C) of the
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.693]
+y requirement is the difference
+between jumping in headfirst and creating new economic opportunities for
+their communities and families or
+walking away entirely.
+This way of doing business just
+doesn’t reflect our current economic or
+technological realities. This bill offers
+a new opportunity for Americans
+across the country to step forward.
+The Main Street Parity Act is common sense.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.683]
+n jumping in headfirst and cre-
+ating new economic opportunities for 
+their communities and families or 
+walking away entirely. 
+This way of doing business just 
+doesn’t reflect our current economic or 
+technological realities. This bill offers 
+a 
+new 
+opportunity 
+for 
+Americans 
+across the country to step forward. 
+The Main Street Parity Act is com-
+mon sense. It is a clear fix that brings 
+these loans in line with the 504 stand-
+ardization programs by setting an eq-
+uity requirement at 10 percent.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.679]
+his bill offers
+a new opportunity for Americans
+across the country to step forward.
+The Main Street Parity Act is common sense. It is a clear fix that brings
+these loans in line with the 504 standardization programs by setting an equity requirement at 10 percent.
+Madam Speaker, I encourage Members from both sides of the aisle to put
+small business owners and their employees first by supporting this bill.
+Mr. WILLIAMS of Texas. Madam
+Speaker, I am prepared to close, and I
+reserve the balance of my time.
+Ms.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.584]
+or the Commonwealth of the 
+Northern Mariana Islands;                               Pages H929–30 
+Main Street Parity Act: H.R. 5763, to amend 
+the Small Business Investment Act of 1958 to mod-
+ify the criteria for loans for plant acquisition, con-
+struction, conversion or expansion, by a 2⁄3 yea-and- 
+nay vote of 383 yeas to 8 nays, Roll No. 32; 
+                                                                    Pages H930–31, H939–40 
+AI for Main Street Act: H.R.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.573]
+of my time.
+Ms. VELÁZQUEZ. Madam Speaker, I
+yield myself such time as I may consume.
+Madam Speaker, I rise in support of
+H.R. 5763, the Main Street Parity Act.
+One of the key functions of the SBA
+is to ensure that small businesses in
+communities across the country have
+access to the capital they need to grow
+and scale their operations.
+The SBA has long served this need
+through its loan guarantee program,
+including the 504/CDC program.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.565]
+for his collaboration on this bill.
+Madam Speaker, I am extremely
+proud to lead the Main Street Parity
+Act with Chair WILLIAMS. As members
+of the Small Business Committee, one
+of the most bipartisan committees in
+the 119th Congress, we hear the same
+messages repeated every single day:
+Small businesses don’t need special
+treatment.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.560]
+rsion or expansion, and for other pur-
+poses. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R. 5763 
+Be it enacted by the Senate and House of Rep-
+resentatives of the United States of America in 
+Congress assembled, 
+SECTION 1. SHORT TITLE. 
+This Act may be cited as the ‘‘Main Street 
+Parity Act’’. 
+SEC. 2. MODIFICATION TO CRITERIA FOR LOANS 
+FOR 
+PLANT 
+ACQUISITION, 
+CON-
+STRUCTION, CONVERSION OR EX-
+PANSION.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.556]
+ause 8 of rule XX, further pro-
+ceedings on this motion will be post-
+poned. 
+f 
+AI FOR MAIN STREET ACT 
+Mr. WILLIAMS of Texas. Madam 
+Speaker, I move to suspend the rules 
+and pass the bill (H.R. 5764) to amend 
+the Small Business Act to require 
+small business development centers to 
+assist small business concerns with the 
+use of artificial intelligence, and for 
+other purposes, as amended. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.556]
+se today in
+strong support of my bill, H.R. 5763, the
+Main Street Parity Act.
+I also thank the gentlewoman from
+California (Ms. SIMON), my friend, for
+joining me in co-leading this bipartisan
+effort.
+The SBA’s 504 loan program is an important tool that helps small businesses obtain affordable financing for
+the acquisition of fixed assets, such as
+land, buildings, and heavy machinery.
+To obtain a 504 loan, a small business
+owner must contribute 10 percent of
+the total project cost as a form of
+downpayment.
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.555]
+he affirmative) the
+rules were suspended and the bill, as
+amended, was passed.
+A motion to reconsider was laid on
+the table.
+f
+
+MAIN STREET PARITY ACT
+Mr. WILLIAMS of Texas. Madam
+Speaker, I move to suspend the rules
+and pass the bill (H.R. 5763) to amend
+the Small Business Investment Act of
+1958 to modify the criteria for loans for
+plant acquisition, construction, conversion or expansion, and for other purposes.
+
+PO 00000
+
+Frm 00004
+
+Fmt 4634
+
+Sfmt 0634
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.554]
+on, construction, conversion or expansion, by a 2⁄3 yea-andnay vote of 383 yeas to 8 nays, Roll No. 32;
+Pages H930–31, H939–40
+
+AI for Main Street Act: H.R. 5764, amended, to
+amend the Small Business Act to require small business development centers to assist small business
+concerns with the use of artificial intelligence, by a
+2⁄3 yea-and-nay vote of 395 yeas to 14 nays, Roll
+No. 33;
+Pages H931–32, H940
+504 Program Risk Oversight Act: H.R.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.548]
+. 32; 
+                                                                    Pages H930–31, H939–40 
+AI for Main Street Act: H.R. 5764, amended, to 
+amend the Small Business Act to require small busi-
+ness development centers to assist small business 
+concerns with the use of artificial intelligence, by a 
+2⁄3 yea-and-nay vote of 395 yeas to 14 nays, Roll 
+No. 33;                                                          Pages H931–32, H940 
+504 Program Risk Oversight Act: H.R.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.539]
+r 
+Main Street Act. 
+I thank Chairman WILLIAMS for his 
+leadership. I also thank my colleagues 
+on the other side of the aisle. Fore-
+most, I recognize both Ranking Mem-
+ber VELA´ ZQUEZ for her leadership and 
+Congresswoman HILLARY SCHOLTEN for 
+working with me to bring this impor-
+tant bill forward. 
+A lot of people are talking about AI 
+these days.
+
+---
+
+[Source: CREC-2026-01-08.pdf, Relevance: 0.536]
+and subtitle C of title II of the 2002 
+Act, and for activities authorized by or con-
+sistent with the First Step Act of 2018. 
+STATE AND LOCAL LAW ENFORCEMENT 
+ASSISTANCE 
+(INCLUDING TRANSFER OF FUNDS) 
+For grants, contracts, cooperative agree-
+ments, and other assistance authorized by 
+the Violent Crime Control and Law Enforce-
+ment Act of 1994 (Public Law 103–322) (‘‘the 
+1994 Act’’); the Omnibus Crime Control and 
+Safe Streets Act of 1968 (Public Law 90–351) 
+(‘‘the 1968 Act’’); the Justice for All Act
+
+---
+
+[Source: CREC-2026-01-20.txt, Relevance: 0.527]
+a
+core duty to assist entrepreneurs nationwide in fighting AI in their businesses.
+As artificial intelligence becomes a
+core driver of productivity and competitiveness, Main Street cannot be
+left behind. I urge my colleagues to
+support H.R. 5764, the AI for Main
+Street Act.
+Madam Speaker, I reserve the balance of my time.
+Ms. VELÁZQUEZ.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.527]
+. 
+Madam Speaker, I urge my col-
+leagues to vote ‘‘yes’’ on H.R. 5763, and 
+I reserve the balance of my time. 
+Ms. VELA´ ZQUEZ. Madam Speaker, I 
+yield myself such time as I may con-
+sume. 
+Madam Speaker, I rise in support of 
+H.R. 5763, the Main Street Parity Act. 
+One of the key functions of the SBA 
+is to ensure that small businesses in 
+communities across the country have 
+access to the capital they need to grow 
+and scale their operations.
+
+---
+
+[Source: CREC-2026-01-28.pdf, Relevance: 0.523]
+to 
+paragraphs (1) and (2) of section 1701(b) of the 
+Omnibus Crime Control and Safe Streets Act 
+of 1968 (34 U.S.C. 10381(b)). 
+‘‘(b) WAIVER.—For grants made from funds 
+made available under this section, the re-
+quirements of section 1701(g) of the Omnibus 
+Crime Control and Safe Streets Act of 1968 
+(34 U.S.C.
+
+---
+
+[Source: CREC-2026-01-22.pdf, Relevance: 0.521]
+artment 
+of Housing and Urban Development Appro-
+priations Act, 2012 (title II of division C of 
+Public Law 112–55). 
+SEC. 242. The Secretary shall conduct all 
+rulemaking in accordance with the policies 
+of part 10 of title 24 of the Code of Federal 
+Regulations and Executive Order 12866, as 
+amended, including providing for public par-
+ticipation and not less than 60 days for the 
+submission of written comments. 
+SEC. 243.
+
+---
+
+[Source: CREC-2026-01-20.pdf, Relevance: 0.521]
+apital for 
+small businesses in the Northern Mar-
+iana Islands. I yield back the balance 
+of my time. 
+The SPEAKER pro tempore. The 
+question is on the motion offered by 
+the gentleman from Texas (Mr. WIL-
+LIAMS) that the House suspend the 
+rules and pass the bill, H.R. 3496, as 
+amended. 
+The question was taken; and (two- 
+thirds being in the affirmative) the 
+rules were suspended and the bill, as 
+amended, was passed. 
+A motion to reconsider was laid on 
+the table. 
+f 
+MAIN STREET PARITY ACT 
+Mr.
+============================================================
+
+The purpose of the Main Street Parity Act is to modify the criteria for loans for plant acquisition, construction, conversion or expansion, ensuring that these loans align with the 504 standardization programs by setting an equity requirement at 10%. This act aims to provide a fairer and more accessible financial opportunity for small businesses across the country. 
+
+Relevant quote:
+
+"Sec. 2. MODIFICATION TO CRITERIA FOR LOANS FOR PLANT ACQUISITION, CONSTRUCTION, CONVERSION OR EXPANSION." 
+
+"The...
