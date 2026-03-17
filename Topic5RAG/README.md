@@ -2,7 +2,7 @@
 
 ## Task 1. Open Model RAG v.s No RAG Comparison
 
-According to the outputs (see [1. Model T Ford output](./11_output.txt) and [1. Congressional Record output](./12_output.txt):
+According to the outputs (see [1. Model T Ford output](./11_output.txt) and [1. Congressional Record output](./12_output.txt)):
 
 1. Yes, the model hallucinate specific value without RAG. In the question "what is the correct spark plug gap for a Model T Ford", the model answers 0.25 inches without RAG, and 0.74 inches with RAG (which is also not correct).
 2. Yes, RAG ground the answers in the actual manual.
@@ -29,7 +29,7 @@ For the quesiton "What is the purpose of the Main Street Parity Act?", the model
 
 1. At roughly k = 10, adding more context stop helping.
 2. I don't see too much context hurt from this simple experimentation, when k is below 20.
-3. In general, the needed k and chunk size are inverse correlated.
+3. In general, the needed k and chunk size are inversely correlated.
 
 ## Task 5: Handling Unanswerable Questions
 

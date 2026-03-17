@@ -1,0 +1,107 @@
+================================================================================
+Research Assistant
+================================================================================
+
+This system uses manual tool calling with ToolNode:
+  - call_model: Invokes LLM with tool bindings
+  - ToolNode: Executes requested tools in parallel
+  - Loop: tools -> call_model (until no more tools needed)
+  - Single persistent conversation across all turns
+  - History managed automatically (trimmed after 100 messages)
+
+Commands:
+  - Type 'quit' or 'exit' to end the conversation
+  - Type 'verbose' to enable detailed tracing
+  - Type 'quiet' to disable detailed tracing
+
+Available sources:
+  - search_wikipedia(query): Search Wikipedia for a topic
+  - search_duckduckgo(query): Search the web via DuckDuckGo
+================================================================================
+[SYSTEM] Conversation graph created successfully (using manual ToolNode)
+[SYSTEM] Graph visualization saved to 'langchain_research_assistant_graph.png'
+
+[SYSTEM] Starting conversation...
+
+
+================================================================================
+NODE: input_node
+================================================================================
+
+You: What is the population of Charlottesville?
+[DEBUG] User input: What is the population of Charlottesville?
+[DEBUG] Routing to call_model
+
+================================================================================
+NODE: call_model
+================================================================================
+[DEBUG] Calling model with 1 messages
+[DEBUG] Added system prompt
+[DEBUG] Model requested 2 tool call(s):
+  - search_wikipedia({'query': 'Charlottesville population'})
+  - search_duckduckgo({'query': 'Charlottesville population 2023'})
+[DEBUG] Routing to tools
+
+================================================================================
+NODE: call_model
+================================================================================
+[DEBUG] Calling model with 5 messages
+[DEBUG] Added system prompt
+[DEBUG] Model response (no tools): According to Wikipedia, the population of Charlottesville, Virginia, was 46,553 as of the 2020 censu...
+[DEBUG] Routing to output
+
+================================================================================
+NODE: output_node
+================================================================================
+
+Assistant: According to Wikipedia, the population of Charlottesville, Virginia, was 46,553 as of the 2020 census. The city is part of a larger metropolitan area that includes Albemarle County, with a combined population of approximately 160,000. [Source](https://en.wikipedia.org/wiki/Charlottesville,_Virginia)
+
+According to web results, the population of Charlottesville is reported as 45,373. This data is presented alongside other facts about the city, such as its role in film locations. [Source](https://www.law.virginia.edu/charlottesville/charlottesville-facts)
+
+Both sources provide population figures that are slightly different but close, reflecting typical variations due to updates or different data sources. Wikipedia provides context on the metropolitan area's population, which is not mentioned in the web source.
+
+In conclusion, Charlottesville's population is approximately 45,000 to 46,500, with the most recent official figure from the 2020 census being 46,553.
+
+================================================================================
+NODE: input_node
+================================================================================
+
+You: What's Ang Ll[Kee's best movie?
+[DEBUG] User input: What's Ang Lee's best movie?
+[DEBUG] Routing to call_model
+
+================================================================================
+NODE: call_model
+================================================================================
+[DEBUG] Calling model with 8 messages
+[DEBUG] Added system prompt
+[DEBUG] Model requested 2 tool call(s):
+  - search_wikipedia({'query': 'Ang Lee best movie'})
+  - search_duckduckgo({'query': 'Ang Lee best movie'})
+[DEBUG] Routing to tools
+
+================================================================================
+NODE: call_model
+================================================================================
+[DEBUG] Calling model with 12 messages
+[DEBUG] Added system prompt
+[DEBUG] Model response (no tools): Wikipedia indicates that Ang Lee has been awarded two Academy Awards for Best Director for "Brokebac...
+[DEBUG] Routing to output
+
+================================================================================
+NODE: output_node
+================================================================================
+
+Assistant: Wikipedia indicates that Ang Lee has been awarded two Academy Awards for Best Director for "Brokeback Mountain" (2005) and "Life of Pi" (2012), with "Crouching Tiger, Hidden Dragon" (2000) also being highly acclaimed and winning the Academy Award for Best Foreign Language Film. [Source](https://en.wikipedia.org/wiki/Ang_Lee)
+
+Web results from DuckDuckGo suggest that "Sense and Sensibility" (1995) is also highly regarded, alongside "Brokeback Mountain" and "Crouching Tiger, Hidden Dragon," often being cited as some of his best works. [Source](https://thecinemaholic.com/ang-lee-movies-ranked-worst-best/)
+
+Both sources highlight "Brokeback Mountain" and "Crouching Tiger, Hidden Dragon" as two of Ang Lee's most acclaimed films, with "Life of Pi" and "Sense and Sensibility" also frequently mentioned as top works. There is a slight variation in emphasis, with web sources occasionally highlighting different films as best.
+
+In conclusion, Ang Lee's best movies are generally considered to be "Brokeback Mountain" and "Crouching Tiger, Hidden Dragon," with strong mentions for "Life of Pi" and "Sense and Sensibility."
+
+================================================================================
+NODE: input_node
+================================================================================
+
+You: exit

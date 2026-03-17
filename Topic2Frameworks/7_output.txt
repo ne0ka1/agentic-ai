@@ -1,5 +1,3 @@
-Script started on Wed Mar  4 13:32:22 2026
-[1m[7m%[27m[1m[0m                                                                                                                                            [0m[27m[24m[J[38;5;202mk[39m[38;5;208ma[39m[38;5;214mi[39m[38;5;216m@[39m[38;5;214mm[38;5;208ma[39m[38;5;202mc [39m[38;5;208mTopic2Frameworks[39m [38;5;214m%[39m [K[?2004h[1m[31mp[0m[39m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31mh[0m[39m[1m[31mh[1m[31mo[0m[39m[1m[31mo[1m[31mn[0m[39m[0m[32mp[0m[32my[0m[32mt[0m[32mh[0m[32mo[0m[32mn[32m3[39m [4m7[24m[4m7[4m_langgraph_simple_llama_agent.py[24m[1m [0m[0m [?2004l
 ==================================================
 Multi-Agent LangGraph (Llama & Qwen) — with checkpointing
 ==================================================
@@ -143,6 +141,3 @@ Active: Llama | Prefix with 'Hey Qwen' or 'Hey Llama' to switch
 
 > exit
 Goodbye!
-[1m[7m%[27m[1m[0m                                                                                                                                            [0m[27m[24m[J[38;5;202mk[39m[38;5;208ma[39m[38;5;214mi[39m[38;5;216m@[39m[38;5;214mm[38;5;208ma[39m[38;5;202mc [39m[38;5;208mTopic2Frameworks[39m [38;5;214m%[39m [K[?2004h[1m[31me[0m[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?2004l
-
-Script done on Wed Mar  4 13:33:37 2026
