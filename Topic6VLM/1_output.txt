@@ -1,0 +1,60 @@
+========================================================
+ Image: (none)  |  model: llava
+ Commands: image <path>  |  reset  |  quiet / verbose  |  quit / exit / q
+========================================================
+
+> image ./dog.jpg
+[Loaded image: ./dog.jpg]
+
+========================================================
+ Image: dog.jpg  |  model: llava
+ Commands: image <path>  |  reset  |  quiet / verbose  |  quit / exit / q
+========================================================
+
+> what's in the image?
+
+Thinking…
+
+--------------------------------------------------------
+Assistant
+--------------------------------------------------------
+The image shows a small dog with floppy ears, resting its head on one paw while lying down. The dog appears to be a breed with a short coat and has a cute expression. It is partially covered by what looks like a blanket or a piece of clothing. The background is not clearly visible due to the focus on the dog.
+
+========================================================
+ Image: dog.jpg  |  model: llava
+ Commands: image <path>  |  reset  |  quiet / verbose  |  quit / exit / q
+========================================================
+
+> do you know the specific breed of the dog?
+
+Thinking…
+
+--------------------------------------------------------
+Assistant
+--------------------------------------------------------
+Yes, the dog in the image appears to be a Pomeranian, also known as a Pom-Pom. It's characterized by its small size, floppy ears, and curly coat.
+
+========================================================
+ Image: dog.jpg  |  model: llava
+ Commands: image <path>  |  reset  |  quiet / verbose  |  quit / exit / q
+========================================================
+
+> what is the dog thinking?
+
+Thinking…
+
+--------------------------------------------------------
+Assistant
+--------------------------------------------------------
+The dog in the image appears to be a Pomeranian puppy, and it looks like it might be resting or sleeping. As an AI, I don't have personal feelings or thoughts, but based on its relaxed posture and closed eyes, it seems content and comfortable.
+
+========================================================
+ Image: dog.jpg  |  model: llava
+ Commands: image <path>  |  reset  |  quiet / verbose  |  quit / exit / q
+========================================================
+
+> quit
+Goodbye.
+[1m[7m%[27m[1m[0m                                                                                                                                            [0m[27m[24m[J[38;5;202mk[39m[38;5;208ma[39m[38;5;214mi[39m[38;5;216m@[39m[38;5;214mm[38;5;208ma[39m[38;5;202mc [39m[38;5;208mTopic6VLM[39m [38;5;214m%[39m [K[?2004h[1m[31me[0m[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?2004l
+
+Script done on Sun Mar 22 22:17:07 2026
